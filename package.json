@@ -6,6 +6,9 @@
   "scripts": {
     "start": "node server.js"
   },
+  "engines": {
+    "node": "8.x"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/spadin/simple-express-static-server.git"
